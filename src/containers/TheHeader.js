@@ -54,7 +54,7 @@ const TheHeader = () => {
       </CHeaderBrand>
 
       <CHeaderNav className="px-3">
-        <TheHeaderDropdown/>
+        <div>Тестовое задание</div>
       </CHeaderNav>
 
       <CSubheader className="px-3 justify-content-between">
